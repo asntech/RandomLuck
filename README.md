@@ -3,7 +3,7 @@ a totally random winner picker
 
 A simple script written in PHP using Bootstrape template engine for.
 
-![alt Home Page](https://raw.github.com/asntech/RandomLuck/img/home.png)
+![alt Home Page](https://raw.github.com/asntech/RandomLuck/master/img/home.png)s
 
 ##How to use
 You can add your list of names/participants using "Add Participants" tab. This will store the list in participatns_list.txt.
