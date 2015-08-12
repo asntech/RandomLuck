@@ -2,7 +2,7 @@
 a totally random winner picker
 ,,,,,,
 
-A simple script written in PHP using Bootstrape template engine for.
+A simple script written in PHP using Bootstrap template engine for.
 
 ![Home Page](https://raw.github.com/asntech/RandomLuck/master/img/home.png)
 
