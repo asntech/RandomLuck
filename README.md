@@ -1,11 +1,11 @@
 # RandomLuck
 a totally random winner picker
+,,,,,,
 
 A simple script written in PHP using Bootstrape template engine for.
 
-![alt Home Page](https://raw.github.com/asntech/RandomLuck/master/img/home.png)s
+![alt Home Page](https://raw.github.com/asntech/RandomLuck/master/img/home.png)
 
 ##How to use
-You can add your list of names/participants using "Add Participants" tab. This will store the list in participatns_list.txt.
-After adding the list, you can click the "Draw Now" button on the home page.
-
+You can add your list of names/participants using "Add Participants" tab. This will store the list in participant_list.txt. You can also add the names directly to 'participant_list.txt'
+After adding the name list, you need to click the "Draw Now" button on the home page. Once you click the "Draw Now" tab, you will see the name of the randomly picked winner. 
