@@ -33,10 +33,10 @@ $count = 0;
 ?>
 	  <form class="form-horizontal" method="post" action="add.php">
   <fieldset>
-    <legend>Add Participants</legend>
+    <legend>Add Participant Names</legend>
     
     <div class="form-group">
-      <label for="participants" class="col-lg-2 control-label">Participants:</label>
+      <label for="participants" class="col-lg-2 control-label">Names:</label>
       <div class="col-lg-10">
         <textarea class="form-control" rows="15" name="participants"  id="participants" x-webkit-speech=""><?php if ($handle) {
     while (($buffer = fgets($handle, 4096)) !== false) {
@@ -54,7 +54,7 @@ $count = 0;
  
     <div class="form-group">
       <div class="col-lg-10 col-lg-offset-2">
-        <button type="reset" class="btn btn-default">Cancel</button>
+        <button type="reset" class="btn btn-default">Reset</button>
         <button type="submit" value="submit" name="submit" class="btn btn-primary">Add</button>
       </div>
     </div>

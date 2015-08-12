@@ -1,6 +1,5 @@
 # RandomLuck
 a totally random winner picker
-,,,,,,
 
 A simple script written in PHP using Bootstrap template engine for.
 
