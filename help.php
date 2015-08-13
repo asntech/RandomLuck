@@ -8,7 +8,7 @@ include('inc/header.php');
       <div class="jumbotron">
  
     <legend>Help</legend>
-    <p> RandomLuck is simple script written in PHP using Bootstrap template engine for. </p>
+    <p> RandomLuck is simple script written in PHP using Bootstrap template engine. A simple script written in PHP using Bootstrap template engine. It can be used to choose winners of your competition, contest, to draw from fans or survey participants. </p>
 
     <img src="img/home.png" width="100%">
 

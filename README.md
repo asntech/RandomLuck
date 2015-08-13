@@ -1,7 +1,7 @@
 # RandomLuck
-a totally random winner picker
+RandomLuck is a totally random winner picker
 
-A simple script written in PHP using Bootstrap template engine for.
+A simple script written in PHP using Bootstrap template engine. It can be used to choose winners of your competition, contest, to draw from fans or survey participants.
 
 ![Home Page](https://raw.github.com/asntech/RandomLuck/master/img/home.png)
 
